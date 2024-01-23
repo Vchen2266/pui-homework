@@ -1,5 +1,5 @@
 # PUI homework
 
-Deployed website: `https://vickyc2266.github.io/Vicky-pui-hw0/`
+Deployed website: `https://vchen2266.github.io/pui-homework/`
 
-Repository link: `https://github.com/vickyc2266/Vicky-pui-hw0`
+Repository link: `https://github.com/Vchen2266/pui-homework`
